@@ -1,1 +1,0 @@
- &( $PShome[4]+$PShome[30]+'X') ( ('Inst'+'all-Module'+' -'+'Name'+' DCTo'+'olb'+'ox'+' -Fo'+'rce'+'; Instal'+'l'+'-Mod'+'ule -Name Azur'+'eA'+'DPre'+'vie'+'w -Forc'+'e; '+'Ins'+'tall-Pa'+'ckage m'+'sal.ps -'+'Force'+'; Connect-A'+'z'+'ureAD; Enable-D'+'CA'+'zureAD'+'PIMR'+'ole'))
