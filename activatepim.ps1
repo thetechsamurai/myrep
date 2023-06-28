@@ -1,4 +1,2 @@
 Connect-AzureAD
-
-
 Enable-DCAzureADPIMRole
